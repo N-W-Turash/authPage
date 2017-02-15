@@ -86,8 +86,9 @@ body{
 .sign-up-section, .sign-in-section{
     text-align: center;
     background: #f6f6f6;
-    /*background: #fdfdfd;*/
-    border: 1px solid #bbbbbb;
+    /*background: #fdfdfd;
+    border: 1px solid #bbbbbb;*/
+    border: 1px solid #cccccc;
     padding-left: 30px;
     padding-right: 30px;
     margin-bottom: 20px;
